@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Cars Numbers</title>
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+  <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+</head>
+
+<body>
+    <h2>Number of cars and Population</h2>
+    <p>Number of  BEV and Gasoline and Population in 2010 to 2022.</p>
+    <select id="selDataset">
+      <option value="bev">BEV</option>
+      <option value="gasoline">Gasoline</option>
+      <option value="population">Population</option>
+      <option value="marketshare">MarketShare</option>
+    </select>
+  
+<div id="pie"></div>
+
+<p>Data Sources:<br />
+    <ul>
+        <li>
+           <a href="https://www.energy.ca.gov/">California Energy Commission</a>
+        </li>
+        <li>
+          <a href="https://www.census.gov/">U.S. Census Bureau</a>
+       </li>
+    </ul>
+  </p>
+  <script src="data.js"></script>
+  <script src="plot.js"></script>
+
+</body>
+
+</html>

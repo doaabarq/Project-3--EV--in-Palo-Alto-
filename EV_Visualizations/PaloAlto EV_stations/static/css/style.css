@@ -1,0 +1,38 @@
+/* Styles for the map container */
+#map {
+  height: 500px;
+}
+
+/* Styles for the marker popups */
+.leaflet-popup-content-wrapper {
+  background-color: #285d6c;
+  color: #ebe6ee;
+  padding: 10px;
+  border-radius: 4px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
+}
+
+.leaflet-popup-content {
+  margin-bottom: 5px;
+}
+
+.leaflet-popup-tip-container {
+  width: 40px;
+  height: 20px;
+  position: relative;
+  margin: 0 auto;
+}
+
+.leaflet-popup-tip {
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  background-color: #fff;
+  transform: rotate(45deg);
+  border: 1px solid #999;
+  border-bottom: none;
+  border-right: none;
+  box-shadow: -1px -1px 1px rgba(0, 0, 0, 0.5);
+  left: 10px;
+  top: 9px;
+}

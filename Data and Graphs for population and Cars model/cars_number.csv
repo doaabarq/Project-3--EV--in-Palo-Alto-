@@ -1,0 +1,547 @@
+Data_Year,Dashboard_Fuel_Type_Group,Fuel_Type,ZIP,Number_of_Vehicles
+2010,Battery Electric (BEV),Battery Electric (BEV),94306,7
+2010,Battery Electric (BEV),Battery Electric (BEV),94305,1
+2010,Battery Electric (BEV),Battery Electric (BEV),94304,9
+2010,Battery Electric (BEV),Battery Electric (BEV),94303,3
+2010,Battery Electric (BEV),Battery Electric (BEV),94301,8
+2010,Diesel,Diesel,94309,3
+2010,Diesel,Diesel,94306,145
+2010,Diesel,Diesel,94305,19
+2010,Diesel,Diesel,94304,16
+2010,Diesel,Diesel,94303,143
+2010,Diesel,Diesel,94301,104
+2010,Gasoline,Flex Fuel,94309,1
+2010,Gasoline,Flex Fuel,94306,84
+2010,Gasoline,Flex Fuel,94305,34
+2010,Gasoline,Flex Fuel,94304,16
+2010,Gasoline,Flex Fuel,94303,304
+2010,Gasoline,Flex Fuel,94301,61
+2010,Gasoline,Gasoline,94309,343
+2010,Gasoline,Gasoline,94306,15702
+2010,Gasoline,Gasoline,94305,3504
+2010,Gasoline,Gasoline,94304,1919
+2010,Gasoline,Gasoline,94303,24763
+2010,Gasoline,Gasoline,94301,9901
+2010,Gasoline Hybrid,Gasoline Hybrid,94309,11
+2010,Gasoline Hybrid,Gasoline Hybrid,94306,1118
+2010,Gasoline Hybrid,Gasoline Hybrid,94305,246
+2010,Gasoline Hybrid,Gasoline Hybrid,94304,110
+2010,Gasoline Hybrid,Gasoline Hybrid,94303,942
+2010,Gasoline Hybrid,Gasoline Hybrid,94301,986
+2010,Other,Natural Gas,94306,1
+2010,Other,Natural Gas,94303,4
+2010,Other,Natural Gas,94301,3
+2011,Battery Electric (BEV),Battery Electric (BEV),94309,1
+2011,Battery Electric (BEV),Battery Electric (BEV),94306,23
+2011,Battery Electric (BEV),Battery Electric (BEV),94305,4
+2011,Battery Electric (BEV),Battery Electric (BEV),94304,20
+2011,Battery Electric (BEV),Battery Electric (BEV),94303,29
+2011,Battery Electric (BEV),Battery Electric (BEV),94301,38
+2011,Diesel,Diesel,94309,3
+2011,Diesel,Diesel,94306,180
+2011,Diesel,Diesel,94305,26
+2011,Diesel,Diesel,94304,36
+2011,Diesel,Diesel,94303,173
+2011,Diesel,Diesel,94301,123
+2011,Gasoline,Flex Fuel,94309,3
+2011,Gasoline,Flex Fuel,94306,99
+2011,Gasoline,Flex Fuel,94305,49
+2011,Gasoline,Flex Fuel,94304,18
+2011,Gasoline,Flex Fuel,94303,317
+2011,Gasoline,Flex Fuel,94301,93
+2011,Gasoline,Gasoline,94309,311
+2011,Gasoline,Gasoline,94306,15524
+2011,Gasoline,Gasoline,94305,3354
+2011,Gasoline,Gasoline,94304,1834
+2011,Gasoline,Gasoline,94303,24999
+2011,Gasoline,Gasoline,94301,9829
+2011,Gasoline Hybrid,Gasoline Hybrid,94309,18
+2011,Gasoline Hybrid,Gasoline Hybrid,94306,1228
+2011,Gasoline Hybrid,Gasoline Hybrid,94305,260
+2011,Gasoline Hybrid,Gasoline Hybrid,94304,120
+2011,Gasoline Hybrid,Gasoline Hybrid,94303,1015
+2011,Gasoline Hybrid,Gasoline Hybrid,94301,1018
+2011,Plug-in Hybrid (PHEV),Plug-in Hybrid (PHEV),94306,1
+2011,Plug-in Hybrid (PHEV),Plug-in Hybrid (PHEV),94304,3
+2011,Plug-in Hybrid (PHEV),Plug-in Hybrid (PHEV),94303,4
+2011,Plug-in Hybrid (PHEV),Plug-in Hybrid (PHEV),94301,6
+2011,Other,Natural Gas,94306,2
+2011,Other,Natural Gas,94303,5
+2011,Other,Natural Gas,94301,4
+2012,Battery Electric (BEV),Battery Electric (BEV),94306,45
+2012,Battery Electric (BEV),Battery Electric (BEV),94305,9
+2012,Battery Electric (BEV),Battery Electric (BEV),94304,11
+2012,Battery Electric (BEV),Battery Electric (BEV),94303,55
+2012,Battery Electric (BEV),Battery Electric (BEV),94301,56
+2012,Diesel,Diesel,94309,2
+2012,Diesel,Diesel,94306,207
+2012,Diesel,Diesel,94305,31
+2012,Diesel,Diesel,94304,28
+2012,Diesel,Diesel,94303,204
+2012,Diesel,Diesel,94301,140
+2012,Gasoline,Flex Fuel,94309,2
+2012,Gasoline,Flex Fuel,94306,124
+2012,Gasoline,Flex Fuel,94305,65
+2012,Gasoline,Flex Fuel,94304,23
+2012,Gasoline,Flex Fuel,94303,375
+2012,Gasoline,Flex Fuel,94301,100
+2012,Gasoline,Gasoline,94309,317
+2012,Gasoline,Gasoline,94306,15262
+2012,Gasoline,Gasoline,94305,3397
+2012,Gasoline,Gasoline,94304,1821
+2012,Gasoline,Gasoline,94303,25427
+2012,Gasoline,Gasoline,94301,9612
+2012,Gasoline Hybrid,Gasoline Hybrid,94309,19
+2012,Gasoline Hybrid,Gasoline Hybrid,94306,1331
+2012,Gasoline Hybrid,Gasoline Hybrid,94305,286
+2012,Gasoline Hybrid,Gasoline Hybrid,94304,143
+2012,Gasoline Hybrid,Gasoline Hybrid,94303,1151
+2012,Gasoline Hybrid,Gasoline Hybrid,94301,1055
+2012,Plug-in Hybrid (PHEV),Plug-in Hybrid (PHEV),94306,26
+2012,Plug-in Hybrid (PHEV),Plug-in Hybrid (PHEV),94304,7
+2012,Plug-in Hybrid (PHEV),Plug-in Hybrid (PHEV),94303,30
+2012,Plug-in Hybrid (PHEV),Plug-in Hybrid (PHEV),94301,23
+2012,Other,Natural Gas,94306,2
+2012,Other,Natural Gas,94303,5
+2012,Other,Natural Gas,94301,6
+2013,Battery Electric (BEV),Battery Electric (BEV),94309,1
+2013,Battery Electric (BEV),Battery Electric (BEV),94306,155
+2013,Battery Electric (BEV),Battery Electric (BEV),94305,23
+2013,Battery Electric (BEV),Battery Electric (BEV),94304,50
+2013,Battery Electric (BEV),Battery Electric (BEV),94303,179
+2013,Battery Electric (BEV),Battery Electric (BEV),94301,175
+2013,Diesel,Diesel,94309,3
+2013,Diesel,Diesel,94306,230
+2013,Diesel,Diesel,94305,43
+2013,Diesel,Diesel,94304,35
+2013,Diesel,Diesel,94303,235
+2013,Diesel,Diesel,94301,159
+2013,Gasoline,Flex Fuel,94309,5
+2013,Gasoline,Flex Fuel,94306,167
+2013,Gasoline,Flex Fuel,94305,75
+2013,Gasoline,Flex Fuel,94304,21
+2013,Gasoline,Flex Fuel,94303,460
+2013,Gasoline,Flex Fuel,94301,110
+2013,Gasoline,Gasoline,94309,299
+2013,Gasoline,Gasoline,94306,15606
+2013,Gasoline,Gasoline,94305,3431
+2013,Gasoline,Gasoline,94304,1742
+2013,Gasoline,Gasoline,94303,26288
+2013,Gasoline,Gasoline,94301,9581
+2013,Gasoline Hybrid,Gasoline Hybrid,94309,26
+2013,Gasoline Hybrid,Gasoline Hybrid,94306,1519
+2013,Gasoline Hybrid,Gasoline Hybrid,94305,300
+2013,Gasoline Hybrid,Gasoline Hybrid,94304,168
+2013,Gasoline Hybrid,Gasoline Hybrid,94303,1335
+2013,Gasoline Hybrid,Gasoline Hybrid,94301,1142
+2013,Plug-in Hybrid (PHEV),Plug-in Hybrid (PHEV),94306,73
+2013,Plug-in Hybrid (PHEV),Plug-in Hybrid (PHEV),94305,6
+2013,Plug-in Hybrid (PHEV),Plug-in Hybrid (PHEV),94304,8
+2013,Plug-in Hybrid (PHEV),Plug-in Hybrid (PHEV),94303,55
+2013,Plug-in Hybrid (PHEV),Plug-in Hybrid (PHEV),94301,47
+2013,Other,Natural Gas,94306,3
+2013,Other,Natural Gas,94305,2
+2013,Other,Natural Gas,94303,21
+2013,Other,Natural Gas,94301,5
+2014,Battery Electric (BEV),Battery Electric (BEV),94309,1
+2014,Battery Electric (BEV),Battery Electric (BEV),94306,258
+2014,Battery Electric (BEV),Battery Electric (BEV),94305,30
+2014,Battery Electric (BEV),Battery Electric (BEV),94304,41
+2014,Battery Electric (BEV),Battery Electric (BEV),94303,277
+2014,Battery Electric (BEV),Battery Electric (BEV),94301,283
+2014,Diesel,Diesel,94309,3
+2014,Diesel,Diesel,94306,263
+2014,Diesel,Diesel,94305,42
+2014,Diesel,Diesel,94304,35
+2014,Diesel,Diesel,94303,265
+2014,Diesel,Diesel,94301,213
+2014,Gasoline,Flex Fuel,94309,7
+2014,Gasoline,Flex Fuel,94306,199
+2014,Gasoline,Flex Fuel,94305,84
+2014,Gasoline,Flex Fuel,94304,24
+2014,Gasoline,Flex Fuel,94303,554
+2014,Gasoline,Flex Fuel,94301,125
+2014,Gasoline,Gasoline,94309,287
+2014,Gasoline,Gasoline,94306,15517
+2014,Gasoline,Gasoline,94305,3378
+2014,Gasoline,Gasoline,94304,1719
+2014,Gasoline,Gasoline,94303,26695
+2014,Gasoline,Gasoline,94301,9503
+2014,Gasoline Hybrid,Gasoline Hybrid,94309,27
+2014,Gasoline Hybrid,Gasoline Hybrid,94306,1613
+2014,Gasoline Hybrid,Gasoline Hybrid,94305,336
+2014,Gasoline Hybrid,Gasoline Hybrid,94304,176
+2014,Gasoline Hybrid,Gasoline Hybrid,94303,1451
+2014,Gasoline Hybrid,Gasoline Hybrid,94301,1179
+2014,Plug-in Hybrid (PHEV),Plug-in Hybrid (PHEV),94306,138
+2014,Plug-in Hybrid (PHEV),Plug-in Hybrid (PHEV),94305,19
+2014,Plug-in Hybrid (PHEV),Plug-in Hybrid (PHEV),94304,13
+2014,Plug-in Hybrid (PHEV),Plug-in Hybrid (PHEV),94303,102
+2014,Plug-in Hybrid (PHEV),Plug-in Hybrid (PHEV),94301,96
+2014,Other,Natural Gas,94309,1
+2014,Other,Natural Gas,94306,4
+2014,Other,Natural Gas,94303,8
+2014,Other,Natural Gas,94301,3
+2015,Battery Electric (BEV),Battery Electric (BEV),94309,3
+2015,Battery Electric (BEV),Battery Electric (BEV),94306,382
+2015,Battery Electric (BEV),Battery Electric (BEV),94305,36
+2015,Battery Electric (BEV),Battery Electric (BEV),94304,257
+2015,Battery Electric (BEV),Battery Electric (BEV),94303,412
+2015,Battery Electric (BEV),Battery Electric (BEV),94301,377
+2015,Diesel,Diesel,94309,4
+2015,Diesel,Diesel,94306,301
+2015,Diesel,Diesel,94305,57
+2015,Diesel,Diesel,94304,34
+2015,Diesel,Diesel,94303,324
+2015,Diesel,Diesel,94301,229
+2015,Gasoline,Flex Fuel,94309,6
+2015,Gasoline,Flex Fuel,94306,213
+2015,Gasoline,Flex Fuel,94305,90
+2015,Gasoline,Flex Fuel,94304,29
+2015,Gasoline,Flex Fuel,94303,664
+2015,Gasoline,Flex Fuel,94301,137
+2015,Gasoline,Gasoline,94309,244
+2015,Gasoline,Gasoline,94306,15117
+2015,Gasoline,Gasoline,94305,3395
+2015,Gasoline,Gasoline,94304,1692
+2015,Gasoline,Gasoline,94303,27266
+2015,Gasoline,Gasoline,94301,9226
+2015,Gasoline Hybrid,Gasoline Hybrid,94309,26
+2015,Gasoline Hybrid,Gasoline Hybrid,94306,1718
+2015,Gasoline Hybrid,Gasoline Hybrid,94305,321
+2015,Gasoline Hybrid,Gasoline Hybrid,94304,186
+2015,Gasoline Hybrid,Gasoline Hybrid,94303,1543
+2015,Gasoline Hybrid,Gasoline Hybrid,94301,1128
+2015,Plug-in Hybrid (PHEV),Plug-in Hybrid (PHEV),94306,181
+2015,Plug-in Hybrid (PHEV),Plug-in Hybrid (PHEV),94305,28
+2015,Plug-in Hybrid (PHEV),Plug-in Hybrid (PHEV),94304,11
+2015,Plug-in Hybrid (PHEV),Plug-in Hybrid (PHEV),94303,165
+2015,Plug-in Hybrid (PHEV),Plug-in Hybrid (PHEV),94301,128
+2015,Other,Natural Gas,94306,1
+2015,Other,Natural Gas,94303,16
+2015,Other,Natural Gas,94301,2
+2016,Battery Electric (BEV),Battery Electric (BEV),94309,2
+2016,Battery Electric (BEV),Battery Electric (BEV),94306,498
+2016,Battery Electric (BEV),Battery Electric (BEV),94305,52
+2016,Battery Electric (BEV),Battery Electric (BEV),94304,271
+2016,Battery Electric (BEV),Battery Electric (BEV),94303,511
+2016,Battery Electric (BEV),Battery Electric (BEV),94301,525
+2016,Diesel,Diesel,94309,5
+2016,Diesel,Diesel,94306,270
+2016,Diesel,Diesel,94305,55
+2016,Diesel,Diesel,94304,32
+2016,Diesel,Diesel,94303,326
+2016,Diesel,Diesel,94301,206
+2016,Fuel Cell (FCEV),Fuel Cell (FCEV),94304,1
+2016,Fuel Cell (FCEV),Fuel Cell (FCEV),94303,1
+2016,Fuel Cell (FCEV),Fuel Cell (FCEV),94301,1
+2016,Gasoline,Flex Fuel,94309,7
+2016,Gasoline,Flex Fuel,94306,236
+2016,Gasoline,Flex Fuel,94305,103
+2016,Gasoline,Flex Fuel,94304,39
+2016,Gasoline,Flex Fuel,94303,773
+2016,Gasoline,Flex Fuel,94301,150
+2016,Gasoline,Gasoline,94309,257
+2016,Gasoline,Gasoline,94306,15222
+2016,Gasoline,Gasoline,94305,3356
+2016,Gasoline,Gasoline,94304,1713
+2016,Gasoline,Gasoline,94303,28208
+2016,Gasoline,Gasoline,94301,9241
+2016,Gasoline Hybrid,Gasoline Hybrid,94309,21
+2016,Gasoline Hybrid,Gasoline Hybrid,94306,1777
+2016,Gasoline Hybrid,Gasoline Hybrid,94305,372
+2016,Gasoline Hybrid,Gasoline Hybrid,94304,182
+2016,Gasoline Hybrid,Gasoline Hybrid,94303,1651
+2016,Gasoline Hybrid,Gasoline Hybrid,94301,1179
+2016,Plug-in Hybrid (PHEV),Plug-in Hybrid (PHEV),94309,1
+2016,Plug-in Hybrid (PHEV),Plug-in Hybrid (PHEV),94306,235
+2016,Plug-in Hybrid (PHEV),Plug-in Hybrid (PHEV),94305,34
+2016,Plug-in Hybrid (PHEV),Plug-in Hybrid (PHEV),94304,15
+2016,Plug-in Hybrid (PHEV),Plug-in Hybrid (PHEV),94303,239
+2016,Plug-in Hybrid (PHEV),Plug-in Hybrid (PHEV),94301,175
+2016,Other,Natural Gas,94306,2
+2016,Other,Natural Gas,94303,5
+2016,Other,Natural Gas,94301,2
+2017,Battery Electric (BEV),Battery Electric (BEV),94309,1
+2017,Battery Electric (BEV),Battery Electric (BEV),94306,635
+2017,Battery Electric (BEV),Battery Electric (BEV),94305,88
+2017,Battery Electric (BEV),Battery Electric (BEV),94304,103
+2017,Battery Electric (BEV),Battery Electric (BEV),94303,629
+2017,Battery Electric (BEV),Battery Electric (BEV),94301,693
+2017,Diesel,Diesel,94309,4
+2017,Diesel,Diesel,94306,235
+2017,Diesel,Diesel,94305,48
+2017,Diesel,Diesel,94304,28
+2017,Diesel,Diesel,94303,316
+2017,Diesel,Diesel,94301,195
+2017,Fuel Cell (FCEV),Fuel Cell (FCEV),94306,3
+2017,Fuel Cell (FCEV),Fuel Cell (FCEV),94304,1
+2017,Fuel Cell (FCEV),Fuel Cell (FCEV),94303,6
+2017,Fuel Cell (FCEV),Fuel Cell (FCEV),94301,4
+2017,Gasoline,Flex Fuel,94309,8
+2017,Gasoline,Flex Fuel,94306,263
+2017,Gasoline,Flex Fuel,94305,113
+2017,Gasoline,Flex Fuel,94304,52
+2017,Gasoline,Flex Fuel,94303,917
+2017,Gasoline,Flex Fuel,94301,174
+2017,Gasoline,Gasoline,94309,220
+2017,Gasoline,Gasoline,94306,16827
+2017,Gasoline,Gasoline,94305,3626
+2017,Gasoline,Gasoline,94304,1882
+2017,Gasoline,Gasoline,94303,31344
+2017,Gasoline,Gasoline,94301,9874
+2017,Gasoline Hybrid,Gasoline Hybrid,94309,20
+2017,Gasoline Hybrid,Gasoline Hybrid,94306,2040
+2017,Gasoline Hybrid,Gasoline Hybrid,94305,390
+2017,Gasoline Hybrid,Gasoline Hybrid,94304,208
+2017,Gasoline Hybrid,Gasoline Hybrid,94303,1967
+2017,Gasoline Hybrid,Gasoline Hybrid,94301,1248
+2017,Plug-in Hybrid (PHEV),Plug-in Hybrid (PHEV),94309,3
+2017,Plug-in Hybrid (PHEV),Plug-in Hybrid (PHEV),94306,335
+2017,Plug-in Hybrid (PHEV),Plug-in Hybrid (PHEV),94305,50
+2017,Plug-in Hybrid (PHEV),Plug-in Hybrid (PHEV),94304,15
+2017,Plug-in Hybrid (PHEV),Plug-in Hybrid (PHEV),94303,300
+2017,Plug-in Hybrid (PHEV),Plug-in Hybrid (PHEV),94301,242
+2017,Other,Natural Gas,94306,2
+2017,Other,Natural Gas,94303,6
+2017,Other,Natural Gas,94301,3
+2017,Other,Propane,94303,1
+2018,Battery Electric (BEV),Battery Electric (BEV),94309,3
+2018,Battery Electric (BEV),Battery Electric (BEV),94306,950
+2018,Battery Electric (BEV),Battery Electric (BEV),94305,121
+2018,Battery Electric (BEV),Battery Electric (BEV),94304,89
+2018,Battery Electric (BEV),Battery Electric (BEV),94303,921
+2018,Battery Electric (BEV),Battery Electric (BEV),94301,918
+2018,Diesel,Diesel,94309,2
+2018,Diesel,Diesel,94306,213
+2018,Diesel,Diesel,94305,38
+2018,Diesel,Diesel,94304,36
+2018,Diesel,Diesel,94303,332
+2018,Diesel,Diesel,94301,175
+2018,Fuel Cell (FCEV),Fuel Cell (FCEV),94306,8
+2018,Fuel Cell (FCEV),Fuel Cell (FCEV),94305,1
+2018,Fuel Cell (FCEV),Fuel Cell (FCEV),94304,1
+2018,Fuel Cell (FCEV),Fuel Cell (FCEV),94303,13
+2018,Fuel Cell (FCEV),Fuel Cell (FCEV),94301,4
+2018,Gasoline,Flex Fuel,94309,4
+2018,Gasoline,Flex Fuel,94306,281
+2018,Gasoline,Flex Fuel,94305,115
+2018,Gasoline,Flex Fuel,94304,52
+2018,Gasoline,Flex Fuel,94303,941
+2018,Gasoline,Flex Fuel,94301,202
+2018,Gasoline,Gasoline,94309,209
+2018,Gasoline,Gasoline,94306,16586
+2018,Gasoline,Gasoline,94305,3372
+2018,Gasoline,Gasoline,94304,1935
+2018,Gasoline,Gasoline,94303,31197
+2018,Gasoline,Gasoline,94301,9585
+2018,Gasoline Hybrid,Gasoline Hybrid,94309,16
+2018,Gasoline Hybrid,Gasoline Hybrid,94306,2039
+2018,Gasoline Hybrid,Gasoline Hybrid,94305,401
+2018,Gasoline Hybrid,Gasoline Hybrid,94304,227
+2018,Gasoline Hybrid,Gasoline Hybrid,94303,2004
+2018,Gasoline Hybrid,Gasoline Hybrid,94301,1215
+2018,Plug-in Hybrid (PHEV),Plug-in Hybrid (PHEV),94309,3
+2018,Plug-in Hybrid (PHEV),Plug-in Hybrid (PHEV),94306,410
+2018,Plug-in Hybrid (PHEV),Plug-in Hybrid (PHEV),94305,68
+2018,Plug-in Hybrid (PHEV),Plug-in Hybrid (PHEV),94304,34
+2018,Plug-in Hybrid (PHEV),Plug-in Hybrid (PHEV),94303,403
+2018,Plug-in Hybrid (PHEV),Plug-in Hybrid (PHEV),94301,289
+2018,Other,Natural Gas,94306,1
+2018,Other,Natural Gas,94303,10
+2018,Other,Natural Gas,94301,2
+2018,Other,Propane,94303,1
+2019,Battery Electric (BEV),Battery Electric (BEV),94309,3
+2019,Battery Electric (BEV),Battery Electric (BEV),94306,1154
+2019,Battery Electric (BEV),Battery Electric (BEV),94305,140
+2019,Battery Electric (BEV),Battery Electric (BEV),94304,104
+2019,Battery Electric (BEV),Battery Electric (BEV),94303,1100
+2019,Battery Electric (BEV),Battery Electric (BEV),94301,1042
+2019,Diesel,Diesel,94309,3
+2019,Diesel,Diesel,94306,210
+2019,Diesel,Diesel,94305,45
+2019,Diesel,Diesel,94304,32
+2019,Diesel,Diesel,94303,345
+2019,Diesel,Diesel,94301,151
+2019,Fuel Cell (FCEV),Fuel Cell (FCEV),94306,13
+2019,Fuel Cell (FCEV),Fuel Cell (FCEV),94305,1
+2019,Fuel Cell (FCEV),Fuel Cell (FCEV),94304,1
+2019,Fuel Cell (FCEV),Fuel Cell (FCEV),94303,20
+2019,Fuel Cell (FCEV),Fuel Cell (FCEV),94301,6
+2019,Gasoline,Flex Fuel,94309,4
+2019,Gasoline,Flex Fuel,94306,257
+2019,Gasoline,Flex Fuel,94305,110
+2019,Gasoline,Flex Fuel,94304,39
+2019,Gasoline,Flex Fuel,94303,968
+2019,Gasoline,Flex Fuel,94301,203
+2019,Gasoline,Gasoline,94309,169
+2019,Gasoline,Gasoline,94306,16179
+2019,Gasoline,Gasoline,94305,3206
+2019,Gasoline,Gasoline,94304,1957
+2019,Gasoline,Gasoline,94303,30799
+2019,Gasoline,Gasoline,94301,9302
+2019,Gasoline Hybrid,Gasoline Hybrid,94309,23
+2019,Gasoline Hybrid,Gasoline Hybrid,94306,2071
+2019,Gasoline Hybrid,Gasoline Hybrid,94305,398
+2019,Gasoline Hybrid,Gasoline Hybrid,94304,241
+2019,Gasoline Hybrid,Gasoline Hybrid,94303,2051
+2019,Gasoline Hybrid,Gasoline Hybrid,94301,1207
+2019,Plug-in Hybrid (PHEV),Plug-in Hybrid (PHEV),94309,4
+2019,Plug-in Hybrid (PHEV),Plug-in Hybrid (PHEV),94306,459
+2019,Plug-in Hybrid (PHEV),Plug-in Hybrid (PHEV),94305,80
+2019,Plug-in Hybrid (PHEV),Plug-in Hybrid (PHEV),94304,50
+2019,Plug-in Hybrid (PHEV),Plug-in Hybrid (PHEV),94303,490
+2019,Plug-in Hybrid (PHEV),Plug-in Hybrid (PHEV),94301,310
+2019,Other,Natural Gas,94306,3
+2019,Other,Natural Gas,94305,1
+2019,Other,Natural Gas,94303,13
+2019,Other,Natural Gas,94301,2
+2019,Other,Propane,94303,2
+2020,Battery Electric (BEV),Battery Electric (BEV),94309,4
+2020,Battery Electric (BEV),Battery Electric (BEV),94306,1261
+2020,Battery Electric (BEV),Battery Electric (BEV),94305,157
+2020,Battery Electric (BEV),Battery Electric (BEV),94304,114
+2020,Battery Electric (BEV),Battery Electric (BEV),94303,1225
+2020,Battery Electric (BEV),Battery Electric (BEV),94301,1120
+2020,Diesel,Diesel,94309,3
+2020,Diesel,Diesel,94306,204
+2020,Diesel,Diesel,94305,32
+2020,Diesel,Diesel,94304,25
+2020,Diesel,Diesel,94303,371
+2020,Diesel,Diesel,94301,155
+2020,Fuel Cell (FCEV),Fuel Cell (FCEV),94306,15
+2020,Fuel Cell (FCEV),Fuel Cell (FCEV),94305,1
+2020,Fuel Cell (FCEV),Fuel Cell (FCEV),94304,1
+2020,Fuel Cell (FCEV),Fuel Cell (FCEV),94303,18
+2020,Fuel Cell (FCEV),Fuel Cell (FCEV),94301,4
+2020,Gasoline,Flex Fuel,94309,3
+2020,Gasoline,Flex Fuel,94306,307
+2020,Gasoline,Flex Fuel,94305,129
+2020,Gasoline,Flex Fuel,94304,44
+2020,Gasoline,Flex Fuel,94303,1024
+2020,Gasoline,Flex Fuel,94301,241
+2020,Gasoline,Gasoline,94309,147
+2020,Gasoline,Gasoline,94306,14740
+2020,Gasoline,Gasoline,94305,2906
+2020,Gasoline,Gasoline,94304,1776
+2020,Gasoline,Gasoline,94303,29511
+2020,Gasoline,Gasoline,94301,8530
+2020,Gasoline Hybrid,Gasoline Hybrid,94309,19
+2020,Gasoline Hybrid,Gasoline Hybrid,94306,1968
+2020,Gasoline Hybrid,Gasoline Hybrid,94305,394
+2020,Gasoline Hybrid,Gasoline Hybrid,94304,232
+2020,Gasoline Hybrid,Gasoline Hybrid,94303,2012
+2020,Gasoline Hybrid,Gasoline Hybrid,94301,1163
+2020,Plug-in Hybrid (PHEV),Plug-in Hybrid (PHEV),94309,4
+2020,Plug-in Hybrid (PHEV),Plug-in Hybrid (PHEV),94306,468
+2020,Plug-in Hybrid (PHEV),Plug-in Hybrid (PHEV),94305,80
+2020,Plug-in Hybrid (PHEV),Plug-in Hybrid (PHEV),94304,72
+2020,Plug-in Hybrid (PHEV),Plug-in Hybrid (PHEV),94303,558
+2020,Plug-in Hybrid (PHEV),Plug-in Hybrid (PHEV),94301,309
+2020,Other,Natural Gas,94306,4
+2020,Other,Natural Gas,94304,1
+2020,Other,Natural Gas,94303,11
+2020,Other,Natural Gas,94301,1
+2020,Other,Propane,94303,2
+2021,Battery Electric (BEV),Battery Electric (BEV),94309,4
+2021,Battery Electric (BEV),Battery Electric (BEV),94306,1530
+2021,Battery Electric (BEV),Battery Electric (BEV),94305,212
+2021,Battery Electric (BEV),Battery Electric (BEV),94304,141
+2021,Battery Electric (BEV),Battery Electric (BEV),94303,1478
+2021,Battery Electric (BEV),Battery Electric (BEV),94301,1229
+2021,Diesel,Diesel,94309,2
+2021,Diesel,Diesel,94306,175
+2021,Diesel,Diesel,94305,29
+2021,Diesel,Diesel,94304,26
+2021,Diesel,Diesel,94303,317
+2021,Diesel,Diesel,94301,141
+2021,Fuel Cell (FCEV),Fuel Cell (FCEV),94306,20
+2021,Fuel Cell (FCEV),Fuel Cell (FCEV),94305,2
+2021,Fuel Cell (FCEV),Fuel Cell (FCEV),94304,2
+2021,Fuel Cell (FCEV),Fuel Cell (FCEV),94303,21
+2021,Fuel Cell (FCEV),Fuel Cell (FCEV),94301,5
+2021,Gasoline,Flex Fuel,94309,4
+2021,Gasoline,Flex Fuel,94306,281
+2021,Gasoline,Flex Fuel,94305,89
+2021,Gasoline,Flex Fuel,94304,38
+2021,Gasoline,Flex Fuel,94303,1141
+2021,Gasoline,Flex Fuel,94301,163
+2021,Gasoline,Gasoline,94309,136
+2021,Gasoline,Gasoline,94306,14434
+2021,Gasoline,Gasoline,94305,2988
+2021,Gasoline,Gasoline,94304,1700
+2021,Gasoline,Gasoline,94303,29763
+2021,Gasoline,Gasoline,94301,8513
+2021,Gasoline Hybrid,Gasoline Hybrid,94309,13
+2021,Gasoline Hybrid,Gasoline Hybrid,94306,1992
+2021,Gasoline Hybrid,Gasoline Hybrid,94305,410
+2021,Gasoline Hybrid,Gasoline Hybrid,94304,248
+2021,Gasoline Hybrid,Gasoline Hybrid,94303,2139
+2021,Gasoline Hybrid,Gasoline Hybrid,94301,1141
+2021,Plug-in Hybrid (PHEV),Plug-in Hybrid (PHEV),94309,5
+2021,Plug-in Hybrid (PHEV),Plug-in Hybrid (PHEV),94306,523
+2021,Plug-in Hybrid (PHEV),Plug-in Hybrid (PHEV),94305,90
+2021,Plug-in Hybrid (PHEV),Plug-in Hybrid (PHEV),94304,73
+2021,Plug-in Hybrid (PHEV),Plug-in Hybrid (PHEV),94303,544
+2021,Plug-in Hybrid (PHEV),Plug-in Hybrid (PHEV),94301,352
+2021,Other,Natural Gas,94306,2
+2021,Other,Natural Gas,94305,2
+2021,Other,Natural Gas,94304,1
+2021,Other,Natural Gas,94303,36
+2021,Other,Natural Gas,94301,5
+2022,Battery Electric (BEV),Battery Electric (BEV),94309,4
+2022,Battery Electric (BEV),Battery Electric (BEV),94306,1889
+2022,Battery Electric (BEV),Battery Electric (BEV),94305,263
+2022,Battery Electric (BEV),Battery Electric (BEV),94304,183
+2022,Battery Electric (BEV),Battery Electric (BEV),94303,1855
+2022,Battery Electric (BEV),Battery Electric (BEV),94301,1458
+2022,Diesel,Diesel,94309,1
+2022,Diesel,Diesel,94306,164
+2022,Diesel,Diesel,94305,28
+2022,Diesel,Diesel,94304,27
+2022,Diesel,Diesel,94303,329
+2022,Diesel,Diesel,94301,136
+2022,Fuel Cell (FCEV),Fuel Cell (FCEV),94306,16
+2022,Fuel Cell (FCEV),Fuel Cell (FCEV),94304,3
+2022,Fuel Cell (FCEV),Fuel Cell (FCEV),94303,23
+2022,Fuel Cell (FCEV),Fuel Cell (FCEV),94301,4
+2022,Gasoline,Flex Fuel,94309,3
+2022,Gasoline,Flex Fuel,94306,269
+2022,Gasoline,Flex Fuel,94305,77
+2022,Gasoline,Flex Fuel,94304,50
+2022,Gasoline,Flex Fuel,94303,1102
+2022,Gasoline,Flex Fuel,94301,151
+2022,Gasoline,Gasoline,94309,106
+2022,Gasoline,Gasoline,94306,13904
+2022,Gasoline,Gasoline,94305,2896
+2022,Gasoline,Gasoline,94304,1681
+2022,Gasoline,Gasoline,94303,28466
+2022,Gasoline,Gasoline,94301,8156
+2022,Gasoline Hybrid,Gasoline Hybrid,94309,11
+2022,Gasoline Hybrid,Gasoline Hybrid,94306,1990
+2022,Gasoline Hybrid,Gasoline Hybrid,94305,427
+2022,Gasoline Hybrid,Gasoline Hybrid,94304,208
+2022,Gasoline Hybrid,Gasoline Hybrid,94303,2141
+2022,Gasoline Hybrid,Gasoline Hybrid,94301,1166
+2022,Plug-in Hybrid (PHEV),Plug-in Hybrid (PHEV),94309,5
+2022,Plug-in Hybrid (PHEV),Plug-in Hybrid (PHEV),94306,563
+2022,Plug-in Hybrid (PHEV),Plug-in Hybrid (PHEV),94305,103
+2022,Plug-in Hybrid (PHEV),Plug-in Hybrid (PHEV),94304,48
+2022,Plug-in Hybrid (PHEV),Plug-in Hybrid (PHEV),94303,580
+2022,Plug-in Hybrid (PHEV),Plug-in Hybrid (PHEV),94301,376
+2022,Other,Natural Gas,94306,3
+2022,Other,Natural Gas,94304,1
+2022,Other,Natural Gas,94303,33
+2022,Other,Natural Gas,94301,5
+2022,Gasoline Hybrid,Gasoline Hybrid,94303,2141
+2022,Gasoline Hybrid,Gasoline Hybrid,94301,1166
+2022,Plug-in Hybrid (PHEV),Plug-in Hybrid (PHEV),94309,5
+2022,Plug-in Hybrid (PHEV),Plug-in Hybrid (PHEV),94306,563
+2022,Plug-in Hybrid (PHEV),Plug-in Hybrid (PHEV),94305,103
+2022,Plug-in Hybrid (PHEV),Plug-in Hybrid (PHEV),94304,48
+2022,Plug-in Hybrid (PHEV),Plug-in Hybrid (PHEV),94303,580
+2022,Plug-in Hybrid (PHEV),Plug-in Hybrid (PHEV),94301,376
+2022,Other,Natural Gas,94306,3
+2022,Other,Natural Gas,94304,1
+2022,Other,Natural Gas,94303,33
+2022,Other,Natural Gas,94301,5

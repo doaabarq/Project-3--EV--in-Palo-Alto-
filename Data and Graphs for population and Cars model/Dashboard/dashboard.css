@@ -1,0 +1,65 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+  background-color: #F4F4F4;
+}
+
+h2 {
+  margin-top: 0;
+  color: #333;
+}
+
+.chart-container {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 80px;
+}
+
+.chart {
+  width: 800px;
+  border: 1px solid #ccc;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  background-color: #e7e0e0;
+}
+
+.chart h3 {
+  margin-top: 0;
+  color: #555;
+}
+
+.chart p {
+  margin-bottom: 0;
+  color: #777;
+}
+
+/* Green and Red Theme */
+.chart-container {
+  background-color: #D4FCD6;
+}
+
+.chart {
+  border-color: #AAA;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.chart h3 {
+  color: #333;
+}
+
+.chart p {
+  color: #555;
+}
+
+#bar-chart {
+  background-color: #FFF;
+}
+
+#bar-chart .trace:nth-child(odd) .bar {
+  fill: #F2495C;
+}
+
+#bar-chart .trace:nth-child(even) .bar {
+  fill: #4FB286;
+}
